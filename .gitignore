@@ -1,0 +1,15 @@
+# Python virtual environment
+screnv/
+venv/
+__pycache__/
+*.pyc
+
+# Video outputs and screenshots
+*.avi
+*.mp4
+*.png
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.log
